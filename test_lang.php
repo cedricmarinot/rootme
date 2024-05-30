@@ -1,5 +1,5 @@
 <?php
 
-phpinfo();
+show_source(__FILE__);
 
 ?>
